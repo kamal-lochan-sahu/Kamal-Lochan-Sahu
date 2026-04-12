@@ -39,13 +39,6 @@ I build real-world, production-ready applications — from AI-powered platforms 
 
 ---
 
-## GitHub Stats
-
-![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamal-lochan-sahu&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamal-lochan-sahu&layout=compact&theme=dark&hide_border=true)
-
----
 
 ## What I Bring
 
