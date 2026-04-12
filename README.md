@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Kamal Lochan Sahu 👋
 
-<!--
-**kamal-lochan-sahu/Kamal-Lochan-Sahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack + ML Engineer** | Bhubaneswar, Odisha, India
 
-Here are some ideas to get you started:
+I build real-world, production-ready applications — from AI-powered platforms to full stack web apps. Open to opportunities worldwide.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- 💻 Full Stack Developer with ML/DS expertise
+- 🤖 Building end-to-end AI applications
+- ☁️ AWS cloud experience (EC2, S3, Lambda, SageMaker)
+- 🌍 Open to global opportunities 
+- Language Expertise : English (C1 level), 🇩🇪 German language (C1 level), Italian (A2 level), Odia (Native)
+- 📍 Based in India — available worldwide
+
+---
+
+## Tech Stack
+
+**Frontend:** React • Next.js • Tailwind CSS • TypeScript • JavaScript  
+**Backend:** Python • FastAPI • Flask • Node.js • REST APIs  
+**ML/DS:** Prophet • XGBoost • Scikit-learn • Pandas • NumPy  
+**Cloud:** AWS (EC2, S3, Lambda, SageMaker) • Vercel • Render • Huggingface
+**Tools:** Git • GitHub • VS Code • Google Colab • Postman
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech | Live |
+|---------|-------------|------|------|
+| [GridSense](https://github.com/kamal-lochan-sahu/gridsense) | Real-Time Industrial Energy Intelligence Platform with ML forecasting and anomaly detection | Python, FastAPI, Next.js, Prophet | [Live](https://gridsense-eight.vercel.app) |
+| [CropSense](https://github.com/kamal-lochan-sahu/cropsense) | AI-powered Crop Recommendation System — 99.32% accuracy | Python, Flask, Scikit-learn | [Live] (https://cropsense-39bz.onrender.com)|
+| [DeutschMeister](https://github.com/kamal-lochan-sahu/deutschmeister) | German Language Learning App | JavaScript | Live |
+
+> More projects coming soon...
+
+---
+
+## GitHub Stats
+
+![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamal-lochan-sahu&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamal-lochan-sahu&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## What I Bring
+
+- ✅ Production-level full stack development 
+- ✅ End-to-end ML pipelines — training to deployment
+- ✅ Real API integrations — government, weather, financial data etc.
+- ✅ Clean code, proper documentation, Git workflow
+- ✅ Fast learner — building and learning continuously
+
+---
+
+## Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kamal-lochan-sahu)
+- 🌐 Portfolio: Coming soon
+- 📧 kamallochansahu.dev@gmail.com
