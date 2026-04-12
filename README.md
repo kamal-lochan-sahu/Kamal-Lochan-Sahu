@@ -1,4 +1,4 @@
-# Hi, I'm Kamal Lochan Sahu 👋
+# Hi, I'm Kamal Lochan Sahu 
 
 **Full Stack + ML Engineer** | Bhubaneswar, Odisha, India
 
@@ -32,7 +32,7 @@ I build real-world, production-ready applications — from AI-powered platforms 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
 | [GridSense](https://github.com/kamal-lochan-sahu/gridsense) | Real-Time Industrial Energy Intelligence Platform with ML forecasting and anomaly detection | Python, FastAPI, Next.js, Prophet | [Live](https://gridsense-eight.vercel.app) |
-| [CropSense](https://github.com/kamal-lochan-sahu/cropsense) | AI-powered Crop Recommendation System — 99.32% accuracy | Python, Flask, Scikit-learn | [Live] (https://cropsense-39bz.onrender.com)|
+| [CropSense](https://github.com/kamal-lochan-sahu/cropsense) | AI-powered Crop Recommendation System — 99.32% accuracy | Python, Flask, Scikit-learn | [Live](https://cropsense-39bz.onrender.com/) |
 | [DeutschMeister](https://github.com/kamal-lochan-sahu/deutschmeister) | German Language Learning App | JavaScript | Live |
 
 > More projects coming soon...
