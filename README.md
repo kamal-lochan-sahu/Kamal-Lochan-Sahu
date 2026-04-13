@@ -52,6 +52,6 @@ I build real-world, production-ready applications — from AI-powered platforms 
 
 ## Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kamal-lochan-sahu-dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kamallochansahu)
 - 🌐 Portfolio: Coming soon
 - 📧 kamallochansahu.dev@gmail.com
