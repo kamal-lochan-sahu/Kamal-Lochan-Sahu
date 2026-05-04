@@ -12,7 +12,7 @@ I build real-world, production-ready applications — from AI-powered platforms 
 - 🤖 Building end-to-end AI applications
 - ☁️ AWS cloud experience (EC2, S3, Lambda, SageMaker)
 - 🌍 Open to global opportunities 
-- Language Expertise : English (C1 level),  German language (C1 level), Italian (A2 level), Hindi (C1 level), Odia (Native)
+- Language Expertise : English (C1 level),  German language (C1 level), Italian (A2 level), Hindi (native), Odia (Native)
 - 📍 Based in India — available worldwide
 
 ---
