@@ -1,6 +1,6 @@
 # Hi, I'm Kamal Lochan Sahu 
 
-**Full Stack + ML Engineer** | Bhubaneswar, Odisha, India
+**Full Stack + ML Engineer** | Brahmapur, Odisha, India
 
 I build real-world, production-ready applications — from AI-powered platforms to full stack web apps. Open to opportunities worldwide.
 
